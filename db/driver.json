@@ -1,0 +1,120 @@
+[{
+  "_id": {
+    "$oid": "67302ec22ccf4ae9b7953808"
+  },
+  "driver_id": 91,
+  "driver_name": "Cristina Zuann",
+  "car_model": "Minivan",
+  "car_color": "Puce",
+  "driver_license": "D",
+  "license_plate": "204-668-4796",
+  "phone_number": "307-338-2418"
+},
+{
+  "_id": {
+    "$oid": "67302ec22ccf4ae9b7953809"
+  },
+  "driver_id": 92,
+  "driver_name": "Rafa Dingate",
+  "car_model": "Minivan",
+  "car_color": "Fuscia",
+  "driver_license": "D",
+  "license_plate": "287-406-9851",
+  "phone_number": "630-822-6431"
+},
+{
+  "_id": {
+    "$oid": "67302ec22ccf4ae9b795380a"
+  },
+  "driver_id": 93,
+  "driver_name": "Martie Simoes",
+  "car_model": "Truck",
+  "car_color": "Indigo",
+  "driver_license": "E",
+  "license_plate": "986-146-6387",
+  "phone_number": "327-102-0390"
+},
+{
+  "_id": {
+    "$oid": "67302ec22ccf4ae9b795380b"
+  },
+  "driver_id": 94,
+  "driver_name": "Jenine Do",
+  "car_model": "SUV",
+  "car_color": "Aquamarine",
+  "driver_license": "C",
+  "license_plate": "783-490-4162",
+  "phone_number": "157-619-8827"
+},
+{
+  "_id": {
+    "$oid": "67302ec22ccf4ae9b795380c"
+  },
+  "driver_id": 95,
+  "driver_name": "Isadora Danielovitch",
+  "car_model": "Sedan",
+  "car_color": "Pink",
+  "driver_license": "D",
+  "license_plate": "215-728-6701",
+  "phone_number": "268-762-1970"
+},
+{
+  "_id": {
+    "$oid": "67302ec22ccf4ae9b795380d"
+  },
+  "driver_id": 96,
+  "driver_name": "Leena Aguirrezabala",
+  "car_model": "Minivan",
+  "car_color": "Crimson",
+  "driver_license": "E",
+  "license_plate": "599-356-0160",
+  "phone_number": "748-414-3121"
+},
+{
+  "_id": {
+    "$oid": "67302ec22ccf4ae9b795380e"
+  },
+  "driver_id": 97,
+  "driver_name": "Bernardo Thon",
+  "car_model": "Truck",
+  "car_color": "Maroon",
+  "driver_license": "E",
+  "license_plate": "482-597-2328",
+  "phone_number": "509-473-2874"
+},
+{
+  "_id": {
+    "$oid": "67302ec22ccf4ae9b795380f"
+  },
+  "driver_id": 98,
+  "driver_name": "Terrell Bramsen",
+  "car_model": "Sedan",
+  "car_color": "Green",
+  "driver_license": "B",
+  "license_plate": "983-315-0607",
+  "phone_number": "521-965-9966"
+},
+{
+  "_id": {
+    "$oid": "67302ec22ccf4ae9b7953810"
+  },
+  "driver_id": 99,
+  "driver_name": "Sarah Cantillion",
+  "car_model": "SUV",
+  "car_color": "Turquoise",
+  "driver_license": "B",
+  "license_plate": "692-483-7350",
+  "phone_number": "915-933-7358"
+},
+{
+  "_id": {
+    "$oid": "67302ec22ccf4ae9b7953811"
+  },
+  "driver_id": 100,
+  "driver_name": "Candida Laugherane",
+  "car_model": "Sedan",
+  "car_color": "Red",
+  "driver_license": "D",
+  "license_plate": "801-826-4699",
+  "phone_number": "228-376-6730"
+}]

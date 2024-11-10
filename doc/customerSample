@@ -3,7 +3,4 @@
 	customer_name,
 	delivery_address,
 	phone_number,
-	account_name,
-	credit_card,
-	date_of_birth
 }

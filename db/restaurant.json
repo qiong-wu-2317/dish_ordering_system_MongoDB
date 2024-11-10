@@ -1,0 +1,100 @@
+[{
+  "_id": {
+    "$oid": "67302d8b2ccf4ae9b7953779"
+  },
+  "restaurant_id": 81,
+  "restaurant_name": "Hackett Inc",
+  "restaurant_address": "845 Mccormick Alley",
+  "opening_time": "12:13 AM",
+  "contact": "854-199-8078"
+},
+{
+  "_id": {
+    "$oid": "67302d8b2ccf4ae9b795377a"
+  },
+  "restaurant_id": 82,
+  "restaurant_name": "Block-Kuvalis",
+  "restaurant_address": "585 Rockefeller Parkway",
+  "opening_time": "2:53 PM",
+  "contact": "694-561-0213"
+},
+{
+  "_id": {
+    "$oid": "67302d8b2ccf4ae9b795377b"
+  },
+  "restaurant_id": 83,
+  "restaurant_name": "Metz-Kling",
+  "restaurant_address": "66 Merrick Circle",
+  "opening_time": "10:49 PM",
+  "contact": "985-680-4301"
+},
+{
+  "_id": {
+    "$oid": "67302d8b2ccf4ae9b795377c"
+  },
+  "restaurant_id": 84,
+  "restaurant_name": "Heller, Roob and Beatty",
+  "restaurant_address": "768 Lerdahl Trail",
+  "opening_time": "1:16 AM",
+  "contact": "274-565-4961"
+},
+{
+  "_id": {
+    "$oid": "67302d8b2ccf4ae9b795377d"
+  },
+  "restaurant_id": 85,
+  "restaurant_name": "Stamm, Adams and Herzog",
+  "restaurant_address": "58 Surrey Circle",
+  "opening_time": "10:28 AM",
+  "contact": "464-812-4387"
+},
+{
+  "_id": {
+    "$oid": "67302d8b2ccf4ae9b795377e"
+  },
+  "restaurant_id": 86,
+  "restaurant_name": "Wilkinson LLC",
+  "restaurant_address": "924 Killdeer Street",
+  "opening_time": "9:23 AM",
+  "contact": "588-274-1825"
+},
+{
+  "_id": {
+    "$oid": "67302d8b2ccf4ae9b795377f"
+  },
+  "restaurant_id": 87,
+  "restaurant_name": "Labadie Inc",
+  "restaurant_address": "4783 4th Place",
+  "opening_time": "11:51 PM",
+  "contact": "127-809-6566"
+},
+{
+  "_id": {
+    "$oid": "67302d8b2ccf4ae9b7953780"
+  },
+  "restaurant_id": 88,
+  "restaurant_name": "Stroman-Stehr",
+  "restaurant_address": "3561 Holy Cross Alley",
+  "opening_time": "11:21 PM",
+  "contact": "872-353-6952"
+},
+{
+  "_id": {
+    "$oid": "67302d8b2ccf4ae9b7953781"
+  },
+  "restaurant_id": 89,
+  "restaurant_name": "Stanton-Gutmann",
+  "restaurant_address": "272 Dwight Street",
+  "opening_time": "6:52 AM",
+  "contact": "939-826-8490"
+},
+{
+  "_id": {
+    "$oid": "67302d8b2ccf4ae9b7953782"
+  },
+  "restaurant_id": 90,
+  "restaurant_name": "Shields Group",
+  "restaurant_address": "9632 Delladonna Road",
+  "opening_time": "12:51 AM",
+  "contact": "715-418-9744"
+}]
