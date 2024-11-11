@@ -40,3 +40,10 @@ mongoimport --host localhost --port 27017 --db dishOrderSystem --collection driv
 mongoimport --host localhost --port 27017 --db dishOrderSystem --collection order --file db/order.json --type json --jsonArray
 mongoimport --host localhost --port 27017 --db dishOrderSystem --collection restaurant --file db/restaurant.json --type json --jsonArray
 ```
+
+### Queries
+to run 5 queries
+```
+npm install
+node db/query.js
+```
