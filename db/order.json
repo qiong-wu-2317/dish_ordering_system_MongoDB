@@ -1,6 +1,6 @@
 [{
   "_id": {
-    "$oid": "67305d3e7557d2146936acb4"
+    "$oid": "673148190537983b960398cb"
   },
   "order_id": 1,
   "order_date": "4/2/2024",
@@ -14,6 +14,7 @@
     {
       "dish_id": 3,
       "dish_name": "Cookie",
+      "dish_price": null,
       "quantity": 2,
       "restaurant": {
         "restaurant_id": 81,
@@ -26,6 +27,7 @@
     {
       "dish_id": 41,
       "dish_name": "Ramen",
+      "dish_price": null,
       "quantity": 1,
       "restaurant": {
         "restaurant_id": 86,
@@ -57,7 +59,7 @@
 },
 {
   "_id": {
-    "$oid": "67305d3e7557d2146936acb5"
+    "$oid": "673148190537983b960398cc"
   },
   "order_id": 2,
   "order_date": "2/24/2024",
@@ -89,7 +91,7 @@
 },
 {
   "_id": {
-    "$oid": "67305d3e7557d2146936acb6"
+    "$oid": "673148190537983b960398cd"
   },
   "order_id": 3,
   "order_date": "9/10/2024",
@@ -103,6 +105,7 @@
     {
       "dish_id": 24,
       "dish_name": "Sushi",
+      "dish_price": null,
       "quantity": 2,
       "restaurant": {
         "restaurant_id": 90,
@@ -162,7 +165,7 @@
 },
 {
   "_id": {
-    "$oid": "67305d3e7557d2146936acb7"
+    "$oid": "673148190537983b960398ce"
   },
   "order_id": 4,
   "order_date": "3/16/2024",
@@ -176,6 +179,7 @@
     {
       "dish_id": 21,
       "dish_name": "Macaron",
+      "dish_price": null,
       "quantity": 1,
       "restaurant": {
         "restaurant_id": 87,
@@ -188,6 +192,7 @@
     {
       "dish_id": 20,
       "dish_name": "Churro",
+      "dish_price": null,
       "quantity": 2,
       "restaurant": {
         "restaurant_id": 83,
@@ -219,7 +224,7 @@
 },
 {
   "_id": {
-    "$oid": "67305d3e7557d2146936acb8"
+    "$oid": "673148190537983b960398cf"
   },
   "order_id": 5,
   "order_date": "12/5/2023",
@@ -233,6 +238,7 @@
     {
       "dish_id": 36,
       "dish_name": "Donut",
+      "dish_price": null,
       "quantity": 3,
       "restaurant": {
         "restaurant_id": 83,
@@ -264,7 +270,7 @@
 },
 {
   "_id": {
-    "$oid": "67305d3e7557d2146936acb9"
+    "$oid": "673148190537983b960398d0"
   },
   "order_id": 6,
   "order_date": "12/18/2023",
@@ -278,6 +284,7 @@
     {
       "dish_id": 9,
       "dish_name": "Pancakes",
+      "dish_price": null,
       "quantity": 1,
       "restaurant": {
         "restaurant_id": 87,
@@ -301,7 +308,7 @@
 },
 {
   "_id": {
-    "$oid": "67305d3e7557d2146936acba"
+    "$oid": "673148190537983b960398d1"
   },
   "order_id": 7,
   "order_date": "7/11/2024",
@@ -315,6 +322,7 @@
     {
       "dish_id": 14,
       "dish_name": "Salad",
+      "dish_price": null,
       "quantity": 1,
       "restaurant": {
         "restaurant_id": 81,
@@ -346,7 +354,7 @@
 },
 {
   "_id": {
-    "$oid": "67305d3e7557d2146936acbb"
+    "$oid": "673148190537983b960398d2"
   },
   "order_id": 8,
   "order_date": "3/29/2024",
@@ -360,6 +368,7 @@
     {
       "dish_id": 14,
       "dish_name": "Salad",
+      "dish_price": null,
       "quantity": 2,
       "restaurant": {
         "restaurant_id": 81,
@@ -372,6 +381,7 @@
     {
       "dish_id": 28,
       "dish_name": "Chicken",
+      "dish_price": null,
       "quantity": 3,
       "restaurant": {
         "restaurant_id": 83,
@@ -384,6 +394,7 @@
     {
       "dish_id": 19,
       "dish_name": "Brownie",
+      "dish_price": null,
       "quantity": 1,
       "restaurant": {
         "restaurant_id": 90,
@@ -396,6 +407,7 @@
     {
       "dish_id": 33,
       "dish_name": "Hotdog",
+      "dish_price": null,
       "quantity": 1,
       "restaurant": {
         "restaurant_id": 85,
@@ -427,7 +439,7 @@
 },
 {
   "_id": {
-    "$oid": "67305d3e7557d2146936acbc"
+    "$oid": "673148190537983b960398d3"
   },
   "order_id": 9,
   "order_date": "5/27/2024",
@@ -441,6 +453,7 @@
     {
       "dish_id": 8,
       "dish_name": "Curry",
+      "dish_price": null,
       "quantity": 3,
       "restaurant": {
         "restaurant_id": 87,
@@ -453,6 +466,7 @@
     {
       "dish_id": 14,
       "dish_name": "Salad",
+      "dish_price": null,
       "quantity": 3,
       "restaurant": {
         "restaurant_id": 81,
@@ -465,6 +479,7 @@
     {
       "dish_id": 49,
       "dish_name": "Donut",
+      "dish_price": null,
       "quantity": 1,
       "restaurant": {
         "restaurant_id": 84,
@@ -488,7 +503,7 @@
 },
 {
   "_id": {
-    "$oid": "67305d3e7557d2146936acbd"
+    "$oid": "673148190537983b960398d4"
   },
   "order_id": 10,
   "order_date": "4/28/2024",
@@ -520,7 +535,7 @@
 },
 {
   "_id": {
-    "$oid": "67305d3e7557d2146936acbe"
+    "$oid": "673148190537983b960398d5"
   },
   "order_id": 11,
   "order_date": "8/1/2024",
@@ -534,6 +549,7 @@
     {
       "dish_id": 2,
       "dish_name": "Cannoli",
+      "dish_price": null,
       "quantity": 3,
       "restaurant": {
         "restaurant_id": 85,
@@ -546,6 +562,7 @@
     {
       "dish_id": 23,
       "dish_name": "Cannoli",
+      "dish_price": null,
       "quantity": 1,
       "restaurant": {
         "restaurant_id": 83,
@@ -558,6 +575,7 @@
     {
       "dish_id": 21,
       "dish_name": "Macaron",
+      "dish_price": null,
       "quantity": 3,
       "restaurant": {
         "restaurant_id": 87,
@@ -570,6 +588,7 @@
     {
       "dish_id": 44,
       "dish_name": "Cheesecake",
+      "dish_price": null,
       "quantity": 3,
       "restaurant": {
         "restaurant_id": 86,
@@ -601,7 +620,7 @@
 },
 {
   "_id": {
-    "$oid": "67305d3e7557d2146936acbf"
+    "$oid": "673148190537983b960398d6"
   },
   "order_id": 12,
   "order_date": "7/7/2024",
@@ -615,6 +634,7 @@
     {
       "dish_id": 9,
       "dish_name": "Pancakes",
+      "dish_price": null,
       "quantity": 3,
       "restaurant": {
         "restaurant_id": 87,
@@ -627,6 +647,7 @@
     {
       "dish_id": 35,
       "dish_name": "Cookie",
+      "dish_price": null,
       "quantity": 2,
       "restaurant": {
         "restaurant_id": 84,
@@ -639,6 +660,7 @@
     {
       "dish_id": 2,
       "dish_name": "Cannoli",
+      "dish_price": null,
       "quantity": 3,
       "restaurant": {
         "restaurant_id": 85,
@@ -670,7 +692,7 @@
 },
 {
   "_id": {
-    "$oid": "67305d3e7557d2146936acc0"
+    "$oid": "673148190537983b960398d7"
   },
   "order_id": 13,
   "order_date": "10/13/2024",
@@ -702,7 +724,7 @@
 },
 {
   "_id": {
-    "$oid": "67305d3e7557d2146936acc1"
+    "$oid": "673148190537983b960398d8"
   },
   "order_id": 14,
   "order_date": "5/1/2024",
@@ -716,6 +738,7 @@
     {
       "dish_id": 25,
       "dish_name": "Soup",
+      "dish_price": null,
       "quantity": 3,
       "restaurant": {
         "restaurant_id": 84,
@@ -728,6 +751,7 @@
     {
       "dish_id": 19,
       "dish_name": "Brownie",
+      "dish_price": null,
       "quantity": 1,
       "restaurant": {
         "restaurant_id": 90,
@@ -740,6 +764,7 @@
     {
       "dish_id": 45,
       "dish_name": "Ramen",
+      "dish_price": null,
       "quantity": 3,
       "restaurant": {
         "restaurant_id": 89,
@@ -752,6 +777,7 @@
     {
       "dish_id": 4,
       "dish_name": "Cupcake",
+      "dish_price": null,
       "quantity": 3,
       "restaurant": {
         "restaurant_id": 81,
@@ -783,7 +809,7 @@
 },
 {
   "_id": {
-    "$oid": "67305d3e7557d2146936acc2"
+    "$oid": "673148190537983b960398d9"
   },
   "order_id": 15,
   "order_date": "1/3/2024",
@@ -797,6 +823,7 @@
     {
       "dish_id": 10,
       "dish_name": "Sandwich",
+      "dish_price": null,
       "quantity": 2,
       "restaurant": {
         "restaurant_id": 90,
@@ -809,6 +836,7 @@
     {
       "dish_id": 8,
       "dish_name": "Curry",
+      "dish_price": null,
       "quantity": 1,
       "restaurant": {
         "restaurant_id": 87,
@@ -821,6 +849,7 @@
     {
       "dish_id": 42,
       "dish_name": "Sushi",
+      "dish_price": null,
       "quantity": 1,
       "restaurant": {
         "restaurant_id": 84,
@@ -833,6 +862,7 @@
     {
       "dish_id": 48,
       "dish_name": "Burger",
+      "dish_price": null,
       "quantity": 1,
       "restaurant": {
         "restaurant_id": 90,
@@ -845,6 +875,7 @@
     {
       "dish_id": 46,
       "dish_name": "Ice Cream",
+      "dish_price": null,
       "quantity": 3,
       "restaurant": {
         "restaurant_id": 90,
@@ -876,7 +907,7 @@
 },
 {
   "_id": {
-    "$oid": "67305d3e7557d2146936acc3"
+    "$oid": "673148190537983b960398da"
   },
   "order_id": 16,
   "order_date": "8/19/2024",
@@ -908,7 +939,7 @@
 },
 {
   "_id": {
-    "$oid": "67305d3e7557d2146936acc4"
+    "$oid": "673148190537983b960398db"
   },
   "order_id": 17,
   "order_date": "5/3/2024",
@@ -940,7 +971,7 @@
 },
 {
   "_id": {
-    "$oid": "67305d3e7557d2146936acc5"
+    "$oid": "673148190537983b960398dc"
   },
   "order_id": 18,
   "order_date": "3/24/2024",
@@ -954,6 +985,7 @@
     {
       "dish_id": 25,
       "dish_name": "Soup",
+      "dish_price": null,
       "quantity": 1,
       "restaurant": {
         "restaurant_id": 84,
@@ -1013,7 +1045,7 @@
 },
 {
   "_id": {
-    "$oid": "67305d3e7557d2146936acc6"
+    "$oid": "673148190537983b960398dd"
   },
   "order_id": 19,
   "order_date": "8/30/2024",
@@ -1045,7 +1077,7 @@
 },
 {
   "_id": {
-    "$oid": "67305d3e7557d2146936acc7"
+    "$oid": "673148190537983b960398de"
   },
   "order_id": 20,
   "order_date": "8/30/2024",
@@ -1059,6 +1091,7 @@
     {
       "dish_id": 19,
       "dish_name": "Brownie",
+      "dish_price": null,
       "quantity": 1,
       "restaurant": {
         "restaurant_id": 90,
@@ -1090,7 +1123,7 @@
 },
 {
   "_id": {
-    "$oid": "67305d3e7557d2146936acc8"
+    "$oid": "673148190537983b960398df"
   },
   "order_id": 21,
   "order_date": "12/22/2023",
@@ -1104,6 +1137,7 @@
     {
       "dish_id": 47,
       "dish_name": "Macaron",
+      "dish_price": null,
       "quantity": 3,
       "restaurant": {
         "restaurant_id": 82,
@@ -1116,6 +1150,7 @@
     {
       "dish_id": 6,
       "dish_name": "Muffin",
+      "dish_price": null,
       "quantity": 3,
       "restaurant": {
         "restaurant_id": 83,
@@ -1128,6 +1163,7 @@
     {
       "dish_id": 32,
       "dish_name": "Pancakes",
+      "dish_price": null,
       "quantity": 2,
       "restaurant": {
         "restaurant_id": 84,
@@ -1140,6 +1176,7 @@
     {
       "dish_id": 17,
       "dish_name": "Muffin",
+      "dish_price": null,
       "quantity": 2,
       "restaurant": {
         "restaurant_id": 82,
@@ -1171,7 +1208,7 @@
 },
 {
   "_id": {
-    "$oid": "67305d3e7557d2146936acc9"
+    "$oid": "673148190537983b960398e0"
   },
   "order_id": 22,
   "order_date": "5/17/2024",
@@ -1185,6 +1222,7 @@
     {
       "dish_id": 28,
       "dish_name": "Chicken",
+      "dish_price": null,
       "quantity": 3,
       "restaurant": {
         "restaurant_id": 83,
@@ -1197,6 +1235,7 @@
     {
       "dish_id": 24,
       "dish_name": "Sushi",
+      "dish_price": null,
       "quantity": 1,
       "restaurant": {
         "restaurant_id": 90,
@@ -1209,6 +1248,7 @@
     {
       "dish_id": 42,
       "dish_name": "Sushi",
+      "dish_price": null,
       "quantity": 2,
       "restaurant": {
         "restaurant_id": 84,
@@ -1221,6 +1261,7 @@
     {
       "dish_id": 23,
       "dish_name": "Cannoli",
+      "dish_price": null,
       "quantity": 2,
       "restaurant": {
         "restaurant_id": 83,
@@ -1233,6 +1274,7 @@
     {
       "dish_id": 32,
       "dish_name": "Pancakes",
+      "dish_price": null,
       "quantity": 2,
       "restaurant": {
         "restaurant_id": 84,
@@ -1256,7 +1298,7 @@
 },
 {
   "_id": {
-    "$oid": "67305d3e7557d2146936acca"
+    "$oid": "673148190537983b960398e1"
   },
   "order_id": 23,
   "order_date": "3/21/2024",
@@ -1316,7 +1358,7 @@
 },
 {
   "_id": {
-    "$oid": "67305d3e7557d2146936accb"
+    "$oid": "673148190537983b960398e2"
   },
   "order_id": 24,
   "order_date": "9/25/2024",
@@ -1330,6 +1372,7 @@
     {
       "dish_id": 30,
       "dish_name": "Burger",
+      "dish_price": null,
       "quantity": 1,
       "restaurant": {
         "restaurant_id": 86,
@@ -1342,6 +1385,7 @@
     {
       "dish_id": 13,
       "dish_name": "Soup",
+      "dish_price": null,
       "quantity": 3,
       "restaurant": {
         "restaurant_id": 88,
@@ -1354,6 +1398,7 @@
     {
       "dish_id": 22,
       "dish_name": "Pasta",
+      "dish_price": null,
       "quantity": 3,
       "restaurant": {
         "restaurant_id": 87,
@@ -1366,6 +1411,7 @@
     {
       "dish_id": 34,
       "dish_name": "Burger",
+      "dish_price": null,
       "quantity": 1,
       "restaurant": {
         "restaurant_id": 81,
@@ -1397,7 +1443,7 @@
 },
 {
   "_id": {
-    "$oid": "67305d3e7557d2146936accc"
+    "$oid": "673148190537983b960398e3"
   },
   "order_id": 25,
   "order_date": "7/29/2024",
@@ -1411,6 +1457,7 @@
     {
       "dish_id": 4,
       "dish_name": "Cupcake",
+      "dish_price": null,
       "quantity": 2,
       "restaurant": {
         "restaurant_id": 81,
@@ -1423,6 +1470,7 @@
     {
       "dish_id": 5,
       "dish_name": "Pizza",
+      "dish_price": null,
       "quantity": 2,
       "restaurant": {
         "restaurant_id": 83,
@@ -1454,7 +1502,7 @@
 },
 {
   "_id": {
-    "$oid": "67305d3e7557d2146936accd"
+    "$oid": "673148190537983b960398e4"
   },
   "order_id": 26,
   "order_date": "4/5/2024",
@@ -1468,6 +1516,7 @@
     {
       "dish_id": 32,
       "dish_name": "Pancakes",
+      "dish_price": null,
       "quantity": 3,
       "restaurant": {
         "restaurant_id": 84,
@@ -1480,6 +1529,7 @@
     {
       "dish_id": 2,
       "dish_name": "Cannoli",
+      "dish_price": null,
       "quantity": 2,
       "restaurant": {
         "restaurant_id": 85,
@@ -1492,6 +1542,7 @@
     {
       "dish_id": 35,
       "dish_name": "Cookie",
+      "dish_price": null,
       "quantity": 3,
       "restaurant": {
         "restaurant_id": 84,
@@ -1504,6 +1555,7 @@
     {
       "dish_id": 41,
       "dish_name": "Ramen",
+      "dish_price": null,
       "quantity": 2,
       "restaurant": {
         "restaurant_id": 86,
@@ -1563,7 +1615,7 @@
 },
 {
   "_id": {
-    "$oid": "67305d3e7557d2146936acce"
+    "$oid": "673148190537983b960398e5"
   },
   "order_id": 27,
   "order_date": "10/6/2024",
@@ -1577,6 +1629,7 @@
     {
       "dish_id": 33,
       "dish_name": "Hotdog",
+      "dish_price": null,
       "quantity": 2,
       "restaurant": {
         "restaurant_id": 85,
@@ -1589,6 +1642,7 @@
     {
       "dish_id": 7,
       "dish_name": "Muffin",
+      "dish_price": null,
       "quantity": 1,
       "restaurant": {
         "restaurant_id": 83,
@@ -1620,7 +1674,7 @@
 },
 {
   "_id": {
-    "$oid": "67305d3e7557d2146936accf"
+    "$oid": "673148190537983b960398e6"
   },
   "order_id": 28,
   "order_date": "4/22/2024",
@@ -1634,6 +1688,7 @@
     {
       "dish_id": 50,
       "dish_name": "Soup",
+      "dish_price": null,
       "quantity": 2,
       "restaurant": {
         "restaurant_id": 88,
@@ -1657,7 +1712,7 @@
 },
 {
   "_id": {
-    "$oid": "67305d3e7557d2146936acd0"
+    "$oid": "673148190537983b960398e7"
   },
   "order_id": 29,
   "order_date": "12/17/2023",
@@ -1671,6 +1726,7 @@
     {
       "dish_id": 22,
       "dish_name": "Pasta",
+      "dish_price": null,
       "quantity": 3,
       "restaurant": {
         "restaurant_id": 87,
@@ -1683,6 +1739,7 @@
     {
       "dish_id": 8,
       "dish_name": "Curry",
+      "dish_price": null,
       "quantity": 3,
       "restaurant": {
         "restaurant_id": 87,
@@ -1695,6 +1752,7 @@
     {
       "dish_id": 33,
       "dish_name": "Hotdog",
+      "dish_price": null,
       "quantity": 1,
       "restaurant": {
         "restaurant_id": 85,
@@ -1707,6 +1765,7 @@
     {
       "dish_id": 32,
       "dish_name": "Pancakes",
+      "dish_price": null,
       "quantity": 2,
       "restaurant": {
         "restaurant_id": 84,
@@ -1738,7 +1797,7 @@
 },
 {
   "_id": {
-    "$oid": "67305d3e7557d2146936acd1"
+    "$oid": "673148190537983b960398e8"
   },
   "order_id": 30,
   "order_date": "6/25/2024",
@@ -1752,6 +1811,7 @@
     {
       "dish_id": 10,
       "dish_name": "Sandwich",
+      "dish_price": null,
       "quantity": 1,
       "restaurant": {
         "restaurant_id": 90,

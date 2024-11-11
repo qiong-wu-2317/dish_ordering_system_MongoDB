@@ -1,0 +1,22 @@
+{
+  "name": "dish_ordering_system_mongodb",
+  "version": "1.0.0",
+  "description": "Project 2 Submission by Qiong Wu",
+  "main": "index.js",
+  "type": "module",
+  "directories": {
+    "doc": "doc"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Qiong Wu",
+  "license": "MIT",
+  "dependencies": {
+    "eslint": "^9.14.0",
+    "eslint-config-prettier": "^9.1.0",
+    "mongodb": "^6.10.0",
+    "prettier": "^3.3.3"
+  }
+}
