@@ -41,9 +41,29 @@ mongoimport --host localhost --port 27017 --db dishOrderSystem --collection orde
 mongoimport --host localhost --port 27017 --db dishOrderSystem --collection restaurant --file db/restaurant.json --type json --jsonArray
 ```
 
+### Backup
+To backup database
+```
+mongodump --uri="mongodb://localhost:27017" --db=dishOrderSystem --archive=database.dump --gzip
+```
+
 ### Queries
 to run 5 queries
 ```
 npm install
 node db/query.js
 ```
+
+## Application
+if the MongoDB url is not "mongodb://localhost:27017", set Mongo_URL by:
+```
+export Mongo_URL="mongodb://<ip>:<port>"
+```
+
+at project root folder
+```
+npm install
+npm start
+```
+
+visit http://localhost:3000/

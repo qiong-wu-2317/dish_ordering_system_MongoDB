@@ -1,6 +1,6 @@
 import { MongoClient } from "mongodb";
 
-const db_uri = "mongodb://localhost:27017";
+const db_uri = process.env.MONGO_URL || "mongodb://localhost:27017";
 
 const connect = () => {
     const client = new MongoClient(db_uri);
