@@ -67,3 +67,6 @@ npm start
 ```
 
 visit http://localhost:3000/
+
+### Video Introduction
+https://drive.google.com/file/d/12InVHlqpPnvQ-KInJYxgNCmp_LN9S-Mo/view?usp=sharing
